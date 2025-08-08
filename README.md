@@ -1,1 +1,1 @@
-# HTML-using-imgage
+# HTML-using-image
